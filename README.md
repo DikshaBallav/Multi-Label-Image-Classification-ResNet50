@@ -131,8 +131,6 @@ The following can further improve results:
 
   Easily swappable backbone
 
-  Clean separation of training/inference
 
-# Framework Used
 
-PyTorch (chosen for flexibility in handling masked losses)
+
