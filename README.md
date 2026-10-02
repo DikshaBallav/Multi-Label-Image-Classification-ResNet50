@@ -244,4 +244,4 @@ The model predicts multiple attributes for a single image using a 4-node sigmoid
 
 ### Diksha Ballav
 
-**AI/ML Engineer | Machine Learning | Deep Learning | NLP**
+**AI/ML | Machine Learning | Deep Learning | NLP**
